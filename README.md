@@ -1,2 +1,3 @@
-# Class02
-This is my first project
+# Class002
+This is my first project.
+Author - Shaukat Yousafzai
